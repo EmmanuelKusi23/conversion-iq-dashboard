@@ -205,7 +205,7 @@ export default function MarketingAgent() {
               Performance Alert
             </h4>
             <p className="text-sm text-yellow-800 dark:text-yellow-300">
-              2 creatives in "SwiftPay App Install Campaign" are underperforming. Consider replacing with new UGC content.
+              2 creatives in &quot;SwiftPay App Install Campaign&quot; are underperforming. Consider replacing with new UGC content.
             </p>
           </div>
         </div>

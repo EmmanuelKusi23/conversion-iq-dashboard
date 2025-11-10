@@ -308,7 +308,7 @@ export default function FinancialAgent() {
             <div className="flex items-center justify-between mb-2">
               <div>
                 <h4 className="font-semibold text-gray-900 dark:text-white">
-                  Registrar General's Department
+                  Registrar General&apos;s Department
                 </h4>
                 <p className="text-sm text-gray-600 dark:text-gray-400">
                   Last renewal: {mockCompliance.registrarGeneral.lastRenewal.toLocaleDateString()}
